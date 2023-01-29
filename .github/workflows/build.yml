@@ -65,7 +65,7 @@ jobs:
     if: needs.check_version.outputs.ALREADY_RELEASE == '0'
 
     steps:
-      - uses: actions/create-release@main
+      - uses: actions/create-release@master
         id: createRelease
         name: Create Runner Release
         env:
