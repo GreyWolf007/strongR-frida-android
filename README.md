@@ -14,7 +14,6 @@ Follow [FRIDA](https://github.com/frida/frida) upstream to automatic patch and b
 
 - [https://github.com/feicong/strong-frida](https://github.com/feicong/strong-frida)
 - [https://github.com/qtfreet00/AntiFrida](https://github.com/qtfreet00/AntiFrida)
-- [https://t.zsxq.com/miIunQN](https://t.zsxq.com/miIunQN)
 - [https://github.com/darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida)
 - [https://github.com/b-mueller/frida-detection-demo](https://github.com/b-mueller/frida-detection-demo)
 
